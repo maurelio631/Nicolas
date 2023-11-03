@@ -1,0 +1,12 @@
+*{
+    list-style: none;
+    box-sizing: border-box;    
+}
+
+nav ul{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
